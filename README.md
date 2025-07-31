@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 📚 Lifelong Learner
+- 📚 Economist, Curious and Lifelong Learner
 - 📊 I'm currently working with finance, planning, data analysis and data science
 - 🛠 I'm currently learning MLops
 
@@ -9,16 +9,17 @@
 - **[Mangueirinha Business Profile](https://app.powerbi.com/view?r=eyJrIjoiOTliN2RjNDctMDJhYy00NjRhLTkzNjMtNWMwM2JlODNlNGI1IiwidCI6IjA4ZDZkMDk0LWM4YmYtNDMyOC1iMGM4LWEyMzY3N2E3YmMxMCJ9)**
   - PowerQuery/Python/SQL/PowerBI
 - **[Classification of Items in Public Procurement Using Machine Learning](https://drive.google.com/file/d/1U83pkxYm8Cls_dvUc2HU-9DU0WzZ5xst/view?usp=sharing) 🚧 WIP 👷**
-  - Python - Classification based on item description (SVM, Naive Bayes and KNN).
+  - Python - Classification based on item description
+  - SVM, Naive Bayes and KNN applied
 
 # 👨‍🔬 Scientific Papers:
-- **[The modernization of Paraná’s agricultura (Brazil)](https://ojs.ufgd.edu.br/anpege/article/view/8809)**
-  - Factor Analysis and Exploratory Spatial Data Analysis (Moran's I) applied;
-- **[The profile of agriculture modernization in Paraná: a cluster analysis](https://e-revista.unioeste.br/index.php/gepec/article/view/26283)**
+- **[The Modernization of Paraná’s Agriculture (Brazil)](https://ojs.ufgd.edu.br/anpege/article/view/8809)**
+  - Factor Analysis and Exploratory Spatial Data Analysis (Moran's I) applied
+- **[The Profile of Agriculture Modernization in Paraná: a Cluster Analysis](https://e-revista.unioeste.br/index.php/gepec/article/view/26283)**
   - Hierarchical Clustering applied
-- **[Public procurement as a local development instrument](https://e-revista.unioeste.br/index.php/gestaoedesenvolvimento/article/view/26958)**
+- **[Public Procurement as a Local Development Instrument](https://e-revista.unioeste.br/index.php/gestaoedesenvolvimento/article/view/26958)**
   - Linear Regression applied
-- **[Family farming efficiency in Paraná cities](https://seer.ufu.br/index.php/revistaeconomiaensaios/article/view/45369)**
+- **[Family Farming Efficiency in Paraná Cities](https://seer.ufu.br/index.php/revistaeconomiaensaios/article/view/45369)**
   - Data Envelopment Analysis and Exploratory Spatial Data Analysis (Moran's I) applied
 
 # 💻 Tech Stack:
