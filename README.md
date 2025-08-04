@@ -8,11 +8,10 @@
   - Excel/PowerQuery/Python/SQL/PowerBI
 - **[Mangueirinha Business Profile](https://app.powerbi.com/view?r=eyJrIjoiOTliN2RjNDctMDJhYy00NjRhLTkzNjMtNWMwM2JlODNlNGI1IiwidCI6IjA4ZDZkMDk0LWM4YmYtNDMyOC1iMGM4LWEyMzY3N2E3YmMxMCJ9)**
   - PowerQuery/Python/SQL/PowerBI
-- **[Classification of Items in Public Procurement Using Machine Learning](https://drive.google.com/file/d/1U83pkxYm8Cls_dvUc2HU-9DU0WzZ5xst/view?usp=sharing) 🚧 WIP 👷**
-  - Python - Classification based on item description
-  - SVM, Naive Bayes and KNN applied
 
 # 👨‍🔬 Scientific Papers:
+- **[Classification of Items in Public Procurement Using Machine Learning](https://drive.google.com/file/d/1U83pkxYm8Cls_dvUc2HU-9DU0WzZ5xst/view?usp=sharing)**
+  - Classification based on item description. SVM, Naive Bayes and KNN applied
 - **[The Modernization of Paraná’s Agriculture (Brazil)](https://ojs.ufgd.edu.br/anpege/article/view/8809)**
   - Factor Analysis and Exploratory Spatial Data Analysis (Moran's I) applied
 - **[The Profile of Agriculture Modernization in Paraná: a Cluster Analysis](https://e-revista.unioeste.br/index.php/gepec/article/view/26283)**
